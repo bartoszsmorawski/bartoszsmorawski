@@ -1,6 +1,8 @@
 # Hello everyone on my GitHub profile! 👋
 My name is **Bartosz Smorawski** and I invite you to get to know **me** and **my projects**.
 
+![NAZWA](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzM4OW81MGl6OHlwbXRscXp0ZTZldXlkbTdld3dlem9zdGJmODQ5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0Gqn9yuw8hnPGn5K/giphy.gif)
+
 ## What projects am I working now? 🗂️
 
 I am currently working on a few projects that will help me deepen my knowledge and experience in programming. These projects are important to me because they cover every type of website category and function that is currently used widely and commercially. **Here are a few of them:**
