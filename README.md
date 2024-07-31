@@ -1,6 +1,8 @@
 # Hello everyone on my GitHub profile! 👋
 My name is **Bartosz Smorawski** and I invite you to get to know **me** and **my projects**.
 
+![Line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
 ## What projects am I working now? 🗂️
 
 I am currently working on a few projects that will help me deepen my knowledge and experience in programming. These projects are important to me because they cover every type of website category and function that is currently used widely and commercially. **Here are a few of them:**
