@@ -38,5 +38,5 @@ Since I am an ambitious person and I like challenges, in the near future I would
 
 If you would like to work with me or find out something interesting about me, please contact me via my **E-mail**, or check out my **Linkedin**. The links are below.
 
-- **Linkedin:** [https://www.linkedin.com/in/bartosz-smorawski-03039921a/]
+- **Linkedin:** https://www.linkedin.com/in/bartosz-smorawski-03039921a/
 - **E mail:** [holzturbs@gmail.com](mailto:holzturbs@gmail.com)
