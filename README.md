@@ -3,6 +3,8 @@ My name is **Bartosz Smorawski** and I invite you to get to know **me** and **my
 
 ![Line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif) 
 
+![alt]([image url](https://camo.githubusercontent.com/c906a792579dff7b3b8cbd301be28119c3a5d583fe8a8d17a1aef81e00964814/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6a6f7368786669267468656d653d7675652d6461726b2673686f775f69636f6e733d7472756526686964655f626f726465723d74727565266c61796f75743d636f6d70616374))
+
 ## Coding languages: 🛠️
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
